@@ -1,5 +1,13 @@
-### Hi there 👋 (Your mom github)
-I will write this later
+### Hi👋
+
+I'm [**Antogamer**](https://discord.com/users/658586788721590273), a 13 years old tech entusiast that is an absolute mistake :nice:
+
+### My projects
+I'm currently working on [**Boxy Boy**](https://discord.com/api/oauth2/authorize?client_id=887384727407968356&permissions=8&scope=bot%20applications.commands) and **Snake Bot**, [**Clauz**](https://discord.com/users/805500495283617853)'s Bot
+
+### Coding abilities
+
+Eh, only JavSscript (Node.JS) and a little bit of Python (I only know how to make discord bots lmao)
 <!--
 **AntogamerYT/AntogamerYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
