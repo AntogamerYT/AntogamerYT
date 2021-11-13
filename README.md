@@ -3,7 +3,7 @@
 I'm [**Antogamer**](https://discord.com/users/658586788721590273), a 13 years old tech entusiast that is an absolute mistake :nice:
 
 ### My projects
-I'm currently working on [**Boxy Boy**](https://discord.com/api/oauth2/authorize?client_id=887384727407968356&permissions=8&scope=bot%20applications.commands) and **Snake Bot**, [**Clauz**](https://discord.com/users/805500495283617853)'s Bot
+I'm currently working on [**Boxy Boy**](https://discord.com/api/oauth2/authorize?client_id=887384727407968356&permissions=8&scope=bot%20applications.commands) and **Snake-Bot**, [**Clauz**](https://discord.com/users/805500495283617853)'s Bot
 
 ### Coding abilities
 
