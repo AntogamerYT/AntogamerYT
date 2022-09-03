@@ -7,7 +7,9 @@ I'm currently working on [**Boxy Boy**](https://top.gg/bot/887384727407968356) a
 
 ### Coding abilities
 
-Eh, only JavaScript (Node.JS) and a little bit of Python
+Eh, only JavaScript (Node.JS), TypeScript and a little bit of Python
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntogamerYT&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=tokyonight)<br>
 <!--
 **AntogamerYT/AntogamerYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
