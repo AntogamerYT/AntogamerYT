@@ -1,6 +1,6 @@
 ### Hi👋
 
-I'm [**Anto**](https://discord.com/users/658586788721590273), a young tech entusiast that is an absolute mistake :nice:
+I'm [**Anto**](https://discord.com/users/658586788721590273), a young tech entusiast 
 
 ### My projects
 My main focus is [**EZFN**](https://ezfn.dev), but i'm also working on [**Bestemmiometro**](https://top.gg/bot/960222248353026069), [**TeleBridge**](https://github.com/TeleBridge/TeleBridge) and [**S-Bot**](https://top.gg/bot/845746467641753600), [**tsClauz**](https://github.com/tsCLauz)'s Bot
